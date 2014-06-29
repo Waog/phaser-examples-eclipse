@@ -1,0 +1,3 @@
+[submodule "WebContent"]
+	path = WebContent
+	url = https://github.com/Waog/phaser-examples
